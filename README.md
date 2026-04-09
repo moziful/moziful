@@ -103,7 +103,7 @@ A Question generator focused on simple editing, template flexibility, and export
 
 **Stack:** Javascript, Tailwind CSS  
 **Highlights:** Question export, desired templates 
-**Live:** `[See here](https://moziful.github.io/Note-Manager/)`
+**Live:** `(https://moziful.github.io/Note-Manager/)`
 
 ### Expense Tracker
 A practical expense management app with a simple dashboard, charts, and easy financial tracking.
