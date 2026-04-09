@@ -12,7 +12,7 @@
 
 <p>
   Rajshahi, Bangladesh |
-  <a href="mailto:moziful@example.com">moziful@example.com</a>
+  <a href="mailto:moziful@example.com">mhmoni2310@gmail.com</a>
 </p>
 
 <p>
@@ -30,7 +30,7 @@
 
 ---
 
-## Profile
+## About Me:
 
 I enjoy building websites that feel clean, responsive, and thoughtful.
 My focus is not only on making things work, but on making them feel smooth, modern, and easy to use.
@@ -39,16 +39,16 @@ Right now, I am especially interested in frontend systems, reusable UI patterns,
 
 ---
 
-## What I'm Doing
+## What I'm Doing:
 
 - Exploring `Next.js` and modern React workflows
-- Building a tourism-related web experience
+- Building an education related web notes organizer
 - Improving UI quality, animation, and component structure
 - Growing toward stronger full-stack and freelance-ready project delivery
 
 ---
 
-## Toolbox
+## What I Can Use For Projects:
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,firebase,github,vscode,&perline=8" alt="Skills" />
@@ -56,7 +56,7 @@ Right now, I am especially interested in frontend systems, reusable UI patterns,
 
 ---
 
-## Connect
+## Connect Me on:
 
 <div align="center">
   <a href="https://www.linkedin.com/in/moziful/" target="_blank">
@@ -75,7 +75,7 @@ Right now, I am especially interested in frontend systems, reusable UI patterns,
 
 ---
 
-## Snapshot
+## Snapshot Of My Works:
 
 <div align="center">
   <img src="https://img.shields.io/badge/Contributions-Consistent-0f766e?style=for-the-badge" alt="Contributions" />
@@ -89,23 +89,21 @@ Right now, I am especially interested in frontend systems, reusable UI patterns,
 
 ---
 
-## Featured Work
+## Projects That You Should Have A Look:
 
 ### Tourism Website
-Travel booking platform with a modern responsive interface designed for a smooth browsing and booking experience.
+Travel History with Short Description And Top Photos
 
-**Stack:** React, Tailwind CSS, Firebase  
-**Highlights:** Booking flow, filtering, authentication  
-**Setup:** `git clone` -> `npm install` -> `npm run dev`  
+**Stack:** Javascript, Tailwind CSS, Firebase  
+**Highlights:** Places, Images, Description  
 **Live:** `Add your live link here`
 
-### Resume Builder
-An ATS-friendly resume generator focused on simple editing, template flexibility, and export support.
+### Question Generator
+A Question generator focused on simple editing, template flexibility, and export support.
 
-**Stack:** Next.js, Tailwind CSS  
-**Highlights:** Resume export, multiple templates  
-**Setup:** `git clone` -> `npm install` -> `npm run dev`  
-**Live:** `Add your live link here`
+**Stack:** Javascript, Tailwind CSS  
+**Highlights:** Question export, desired templates 
+**Live:** `[See here](https://moziful.github.io/Note-Manager/)`
 
 ### Expense Tracker
 A practical expense management app with a simple dashboard, charts, and easy financial tracking.
@@ -128,8 +126,6 @@ For every pinned repository, I aim to include:
 - local setup instructions
 - a live link
 - a clean README with a screenshot when possible
-
-Reference template: `PINNED_REPOSITORY_TEMPLATE.md`
 
 ---
 
