@@ -96,7 +96,6 @@ Travel History with Short Description And Top Photos
 
 **Stack:** Javascript, Tailwind CSS, Firebase  
 **Highlights:** Places, Images, Description  
-**Live:** `Add your live link here`
 
 ### Question Generator
 A Question generator focused on simple editing, template flexibility, and export support.
@@ -111,7 +110,6 @@ A practical expense management app with a simple dashboard, charts, and easy fin
 **Stack:** HTML, CSS, JavaScript  
 **Highlights:** Dashboard, analytics, chart-based insights  
 **Setup:** `git clone` -> `open index.html`  
-**Live:** `Add your live link here`
 
 ---
 
