@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img width="1920" height="1433" alt="20260409_144939" src="https://github.com/user-attachments/assets/fd5a1813-edfe-4f84-8967-445a0579a384" />
 <!--
 **moziful/moziful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
