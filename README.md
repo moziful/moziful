@@ -51,7 +51,7 @@ Right now, I am especially interested in frontend systems, reusable UI patterns,
 ## Toolbox
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,firebase,git,github,vscode,figma&perline=8" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,firebase,github,vscode,&perline=8" alt="Skills" />
 </div>
 
 ---
@@ -62,7 +62,7 @@ Right now, I am especially interested in frontend systems, reusable UI patterns,
   <a href="https://www.linkedin.com/in/moziful/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:moziful@example.com">
+  <a href="mailto:mhmoni2310@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://facebook.com/moziful" target="_blank">
