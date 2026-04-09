@@ -13,5 +13,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Connect Me On: 
+<img width="60" height="60" alt="in" src="https://github.com/user-attachments/assets/dc6e17d6-7f57-4849-ba18-8ef38ce31bb8" /> https://www.linkedin.com/in/moziful/
+
+<img width="60" height="60" alt="W" src="https://github.com/user-attachments/assets/77c81388-5612-4b02-8648-90ff0ea6d2e0" /> wa.me/+8801708333213
+
+
+<img width="60" height="60" alt="f" src="https://github.com/user-attachments/assets/c67f3031-2f72-4196-874d-e8fbde2fa1d6" /> facebook.com/moziful
+
+
+
 
 
