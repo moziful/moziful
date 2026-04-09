@@ -2,56 +2,137 @@
   <img width="100%" alt="banner" src="https://github.com/user-attachments/assets/dc75104a-52b0-45dc-998d-42cc97116210" />
 </div>
 
+<br />
+
+<div align="center">
+# Md Moziful Haque
+
+### Frontend Developer crafting modern, usable, and visually polished web experiences
+
+<p>
+  Rajshahi, Bangladesh |
+  <a href="mailto:moziful@example.com">moziful@example.com</a>
+</p>
+
+<p>
+  <a href="https://github.com/moziful?tab=followers">
+    <img src="https://img.shields.io/github/followers/moziful?label=Followers&style=flat-square&color=0f766e" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/moziful?tab=repositories">
+    <img src="https://img.shields.io/badge/Focus-Frontend%20Development-d97706?style=flat-square" alt="Frontend development" />
+  </a>
+  <a href="https://github.com/moziful">
+    <img src="https://img.shields.io/badge/Open%20To-Collaboration-2563eb?style=flat-square" alt="Open to collaboration" />
+  </a>
+</p>
+</div>
+
 ---
 
-<h2 align="center">🌐 Connect With Me</h2>
+## Profile
 
-<table align="center">
-  <tr>
-    <td width="250">
-      <a href="mailto:yourmail@gmail.com">
-        <img width="40" valign="middle" src="https://github.com/user-attachments/assets/45263795-0a52-4331-a52d-9ad32c378ef0" />&nbsp; Gmail
-      </a>
-    </td>
-    <td width="250">
-      <a href="https://www.linkedin.com/in/moziful/" target="_blank">
-        <img width="40" valign="middle" src="https://github.com/user-attachments/assets/62cbaa08-cdb1-4b7b-920b-d12c973a5764" />&nbsp; LinkedIn
-      </a>
-    </td>
-  </tr>
+I enjoy building websites that feel clean, responsive, and thoughtful.
+My focus is not only on making things work, but on making them feel smooth, modern, and easy to use.
 
-  <tr>
-    <td width="250">
-      <a href="https://wa.me/8801708333213" target="_blank">
-        <img width="40" valign="middle" src="https://github.com/user-attachments/assets/f3ed779e-dd32-4e39-bcf2-41da929d9fd9" />&nbsp; WhatsApp
-      </a>
-    </td>
-    <td width="250">
-      <a href="https://facebook.com/moziful" target="_blank">
-                <img width="40" valign="middle" src="https://github.com/user-attachments/assets/c67f3031-2f72-4196-874d-e8fbde2fa1d6" />
-&nbsp; Facebook
-      </a>
-    </td>
-  </tr>
-</table>
+Right now, I am especially interested in frontend systems, reusable UI patterns, and projects that combine practical value with strong presentation.
 
+---
 
+## What I'm Doing
 
+- Exploring `Next.js` and modern React workflows
+- Building a tourism-related web experience
+- Improving UI quality, animation, and component structure
+- Growing toward stronger full-stack and freelance-ready project delivery
 
+---
 
+## Toolbox
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,firebase,git,github,vscode,figma&perline=8" alt="Skills" />
+</div>
 
-<!--
-**moziful/moziful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Connect
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://www.linkedin.com/in/moziful/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:moziful@example.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://facebook.com/moziful" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://wa.me/8801708333213" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</div>
+
+---
+
+## Snapshot
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Contributions-Consistent-0f766e?style=for-the-badge" alt="Contributions" />
+  <img src="https://img.shields.io/badge/Primary%20Direction-Frontend-d97706?style=for-the-badge" alt="Primary direction" />
+  <img src="https://img.shields.io/badge/Current%20Focus-Next.js%20%26%20UI-2563eb?style=for-the-badge" alt="Current focus" />
+</div>
+
+<p align="center">
+  I prefer a clean and reliable profile presentation, so this README avoids fragile third-party live stat cards.
+</p>
+
+---
+
+## Featured Work
+
+### Tourism Website
+Travel booking platform with a modern responsive interface designed for a smooth browsing and booking experience.
+
+**Stack:** React, Tailwind CSS, Firebase  
+**Highlights:** Booking flow, filtering, authentication  
+**Setup:** `git clone` -> `npm install` -> `npm run dev`  
+**Live:** `Add your live link here`
+
+### Resume Builder
+An ATS-friendly resume generator focused on simple editing, template flexibility, and export support.
+
+**Stack:** Next.js, Tailwind CSS  
+**Highlights:** Resume export, multiple templates  
+**Setup:** `git clone` -> `npm install` -> `npm run dev`  
+**Live:** `Add your live link here`
+
+### Expense Tracker
+A practical expense management app with a simple dashboard, charts, and easy financial tracking.
+
+**Stack:** HTML, CSS, JavaScript  
+**Highlights:** Dashboard, analytics, chart-based insights  
+**Setup:** `git clone` -> `open index.html`  
+**Live:** `Add your live link here`
+
+---
+
+## Project Standard
+
+For every pinned repository, I aim to include:
+
+- a clear short description
+- the main technology stack
+- the key features
+- important dependencies
+- local setup instructions
+- a live link
+- a clean README with a screenshot when possible
+
+Reference template: `PINNED_REPOSITORY_TEMPLATE.md`
+
+---
+
+<div align="center">
+  <sub>Clean code, calm interfaces, and steady growth.</sub>
+</div>
+
