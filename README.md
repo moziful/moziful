@@ -51,7 +51,7 @@ Right now, I am especially interested in frontend systems, reusable UI patterns,
 ## What I Can Use For Projects:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,firebase,github,vscode,&perline=8" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,firebase,github,vscode,&perline=15" alt="Skills" />
 </div>
 
 ---
