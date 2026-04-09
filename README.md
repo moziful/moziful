@@ -101,7 +101,8 @@ Travel History with Short Description And Top Photos
 A Question generator focused on simple editing, template flexibility, and export support.
 
 **Stack:** Javascript, Tailwind CSS  
-**Highlights:** Question export, desired templates 
+**Highlights:** Question export, desired templates
+
 **Live:** `(https://moziful.github.io/Note-Manager/)`
 
 ### Expense Tracker
