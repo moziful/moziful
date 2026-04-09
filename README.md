@@ -1,4 +1,3 @@
-## Hi there 👋
 <img width="1920" height="1156" alt="20260409_152020" src="https://github.com/user-attachments/assets/dc75104a-52b0-45dc-998d-42cc97116210" />
 <!--
 **moziful/moziful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
