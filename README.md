@@ -8,13 +8,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/moziful/" target="_blank">
-    <img width="60" src="https://github.com/user-attachments/assets/dc6e17d6-7f57-4849-ba18-8ef38ce31bb8" />
+    <img width="60" src="https://github.com/user-attachments/assets/62cbaa08-cdb1-4b7b-920b-d12c973a5764" />
   </a>
   
   <a href="https://wa.me/8801708333213" target="_blank">
-    <img width="60" src="https://github.com/user-attachments/assets/77c81388-5612-4b02-8648-90ff0ea6d2e0" />
+    <img width="60" src="https://github.com/user-attachments/assets/f3ed779e-dd32-4e39-bcf2-41da929d9fd9" />
   </a>
-  
+
   <a href="https://facebook.com/moziful" target="_blank">
     <img width="60" src="https://github.com/user-attachments/assets/c67f3031-2f72-4196-874d-e8fbde2fa1d6" />
   </a>
