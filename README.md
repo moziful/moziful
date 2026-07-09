@@ -12,7 +12,7 @@
 
 <p>
   Rajshahi, Bangladesh |
-  <a href="mailto:moziful@example.com">mhmoni2310@gmail.com</a>
+  <a href="mailto:moziful@example.com">mhmoni2310@gmail.com</a> | +8801708333213
 </p>
 
 <p>
