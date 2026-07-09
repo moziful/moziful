@@ -91,26 +91,52 @@ Right now, I am especially interested in frontend systems, reusable UI patterns,
 
 ## Projects That You Should Have A Look:
 
-### Tourism Website
-Travel History with Short Description And Top Photos
+---
 
-**Stack:** Javascript, Tailwind CSS, Firebase  
-**Highlights:** Places, Images, Description  
+## 📚 AuroraLib
 
-### Question Generator
-A Question generator focused on simple editing, template flexibility, and export support.
+### Description
+A professional-grade web platform engineered for streamlined ebook management, creative publishing, and resource discovery. Designed with a modern, dark-mode architecture, the platform provides a responsive grid-based interface that prioritizes efficient content fetching, server-side data integrity, and a distraction-free environment for writers and readers alike.
 
-**Stack:** Javascript, Tailwind CSS  
-**Highlights:** Question export, desired templates
+### 🔗 Links
+* **📁 Codebase:** [GitHub Repo](https://github.com/moziful/auroralib)
+* **🚀 Live App:** [Live Demo](https://auroralib.vercel.app/)
 
-**Live:** `(https://moziful.github.io/Note-Manager/)`
+### ✨ Key Features
+* **Dynamic Writer Dashboards:** A secure, intuitive creator studio for publishing and organizing digital book collections and metadata.
+* **Responsive Content Discovery:** A fluid, grid-based UI optimized for fast content loading and seamless navigation across all device types.
+* **Integrated Media Management:** Automated image hosting and delivery via ImgBB, ensuring high performance without heavy database storage.
+* **Robust Data Integrity:** Built-in server-side validation and secure authentication to ensure user privacy and reliable data synchronization.
 
-### Expense Tracker
-A practical expense management app with a simple dashboard, charts, and easy financial tracking.
+### 🛠️ Tech Stack
+> **Frontend:** Next.js, React, Tailwind CSS
+> **Backend & Database:** Node.js, Express.js, MongoDB
+> **Integrations:** ImgBB API
+> **Deployment:** Vercel
+---
 
-**Stack:** HTML, CSS, JavaScript  
-**Highlights:** Dashboard, analytics, chart-based insights  
-**Setup:** `git clone` -> `open index.html`  
+🐾 PetBuddy
+### Description
+A comprehensive, community-driven marketplace platform designed to simplify the pet adoption process. By connecting prospective pet parents with animal shelters and foster networks, the platform provides a centralized, secure interface for browsing available pets, viewing detailed profiles, and managing adoption inquiries.
+
+### 🔗 Links
+* **📁 Codebase:** [GitHub Repo](https://github.com/moziful/assignment-09)
+* **🚀 Live App:** [Live Demo](https://petbuddy-adopt.vercel.app/)
+
+### ✨ Key Features
+* **Advanced Filtering & Search:** Intuitive tools to filter pets by breed, age, size, and temperament, ensuring the perfect match for every adopter.
+
+* **Adoption Management Workflow:** A streamlined system for users to submit adoption applications and for administrators to track and manage requests.
+
+* **Dynamic Pet Profiles:** Interactive cards and detailed views showcasing pet biographies, vaccination status, and high-quality imagery.
+
+* **Community-Focused Design:** A responsive interface optimized for mobile access, allowing users to browse and inquire about pets on the go.
+
+### 🛠️ Tech Stack
+> **Frontend:** Next.js, React, Tailwind CSS
+> **Backend & Database:** Node.js, Express.js, MongoDB
+> **Integrations:** TanStack Query (React Query)
+> **Deployment:** Vercel
 
 ---
 
