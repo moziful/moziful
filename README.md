@@ -41,7 +41,7 @@ Right now, I am especially interested in frontend systems, reusable UI patterns,
 
 ## What I'm Doing:
 
-- Exploring `Next.js` and modern React workflows
+- Exploring `TypeScript` and modern React workflows
 - Building an education related web notes organizer
 - Improving UI quality, animation, and component structure
 - Growing toward stronger full-stack and freelance-ready project delivery
